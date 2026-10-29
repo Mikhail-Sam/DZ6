@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{CF004F14-1557-46A3-9D36-2453C398B171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerCamp", "SummerCamp\SummerCamp.csproj", "{BA144AE6-4331-4ED2-A0EA-D91FA7AE613C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF004F14-1557-46A3-9D36-2453C398B171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF004F14-1557-46A3-9D36-2453C398B171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF004F14-1557-46A3-9D36-2453C398B171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF004F14-1557-46A3-9D36-2453C398B171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA144AE6-4331-4ED2-A0EA-D91FA7AE613C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA144AE6-4331-4ED2-A0EA-D91FA7AE613C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA144AE6-4331-4ED2-A0EA-D91FA7AE613C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA144AE6-4331-4ED2-A0EA-D91FA7AE613C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
